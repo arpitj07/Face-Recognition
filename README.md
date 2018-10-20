@@ -1,7 +1,5 @@
 # Face Recognition
-This project is inspired from the blog written on [Analytics Vidhya](https://www.analyticsvidhya.com)
-
-You can find the[blog](https://www.analyticsvidhya.com/blog/2018/08/a-simple-introduction-to-facial-recognition-with-python-codes/)
+This project is inspired from the blog written on [Analytics Vidhya](https://www.analyticsvidhya.com),on this [blog](https://www.analyticsvidhya.com/blog/2018/08/a-simple-introduction-to-facial-recognition-with-python-codes/)
   
 ## Installation 
 
