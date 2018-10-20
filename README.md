@@ -1,2 +1,2 @@
 # Face Recognition
-This repository contains the code for simplest facial recognition
+This project is inspired from the blog written on <a href= "https://www.analyticsvidhya.com" <h4> Analytics Vidhya <h4> </a>
